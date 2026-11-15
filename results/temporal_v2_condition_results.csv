@@ -1,0 +1,5 @@
+condition,total,correct,accuracy
+Current_Surge,20,20,1.0
+Normal,20,19,0.95
+Oscillation,20,9,0.45
+Voltage_Sag,20,20,1.0

@@ -1,0 +1,5 @@
+Condition,Output_Spikes,Prediction
+Normal,1,NORMAL
+Voltage_Sag,16,ABNORMAL
+Current_Surge,11,ABNORMAL
+Oscillation,4,ABNORMAL
